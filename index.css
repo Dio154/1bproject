@@ -1,0 +1,88 @@
+img{
+    position: relative;
+}
+
+.nav-d{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    top: 50px;
+    max-width: 100%;
+    width: 1200px;
+    
+}
+
+.first-h1{
+    color: green;
+
+
+}
+
+select{
+    color: white;
+    background-color: black;
+    border: none;
+}
+
+a{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration-line: none;
+}
+
+button{
+    background-color: rgb(31, 225, 31);
+    width: 110px;
+    height: 50px;
+    border-radius: 10px; 
+    color: white;
+}
+
+.middle-div  a{
+    margin: 10px;
+    
+}
+
+.middle-div{
+    margin-top: 20px;
+}
+
+.third-div  a{
+    margin: 0 20px;
+    
+}
+
+.middle-h1{
+    ;
+}
+
+.fourth-div{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 200px;
+}
+
+
+.img-19{
+    position: absolute;
+    top: 10px;
+    left: 120%;
+   
+}
+h1{
+    color: white;
+}
+p{
+    color: white;
+}
+input{
+    width: 300px;
+    height: 30px;
+}
+.Get-button{
+    width: 100px ;
+
+}
+.h1-2{
+    color: black;
+}
